@@ -81,7 +81,7 @@
   background: red;
 }
 
-.lesson-four-task-nineteen .btn-group:focus-within {
+.lesson-four-task-nineteen button:focus-within {
   color: white;
   background: yellow;
 }
